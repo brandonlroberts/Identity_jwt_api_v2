@@ -1,0 +1,132 @@
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/appsettings.Development.json
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/appsettings.json
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.deps.json
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.runtimeconfig.json
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.runtimeconfig.dev.json
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/ref/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.AssemblyReference.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.AssemblyInfoInputs.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.AssemblyInfo.cs
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.CoreCompileInputs.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/staticwebassets/Identity_JWT_API.StaticWebAssets.Manifest.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/staticwebassets/Identity_JWT_API.StaticWebAssets.xml
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/scopedcss/bundle/Identity_JWT_API.styles.css
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.RazorTargetAssemblyInfo.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.CopyComplete
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/ref/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.genruntimeconfig.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/AutoMapper.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Humanizer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity_JWT_API/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Data/UserSeedData.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/appsettings.Development.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/appsettings.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Data/UserSeedData.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.deps.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.runtimeconfig.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.runtimeconfig.dev.json
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/ref/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Identity_JWT_API.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/AutoMapper.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Humanizer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.AssemblyReference.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.AssemblyInfoInputs.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.AssemblyInfo.cs
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.CoreCompileInputs.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/staticwebassets/Identity_JWT_API.StaticWebAssets.Manifest.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/staticwebassets/Identity_JWT_API.StaticWebAssets.xml
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/scopedcss/bundle/Identity_JWT_API.styles.css
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.RazorTargetAssemblyInfo.cache
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.csproj.CopyComplete
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/ref/Identity_JWT_API.dll
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.pdb
+/Users/brandonroberts/Programming/Personal Projects/Identity JWT Version 2/Identity_JWT_API_V2/Identity_JWT_API/Identity_JWT_API/obj/Debug/net5.0/Identity_JWT_API.genruntimeconfig.cache
