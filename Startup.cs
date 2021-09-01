@@ -1,5 +1,7 @@
+using System;
 using Identity_JWT_API.Extensions;
 using Identity_JWT_API.Middleware;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -27,7 +29,41 @@ namespace Identity_JWT_API
             services.AddIdentityServices(Configuration);
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Identity_JWT_API", Version = "v1" });
+            // configure SwaggerDoc and others
+
+            // add JWT Authentication
+            var securityScheme = new OpenApiSecurityScheme
+                        {
+                            Name = "JWT Authentication",
+                            Description = "Enter JWT Bearer token **_only_**",
+                            In = ParameterLocation.Header,
+                            Type = SecuritySchemeType.Http,
+                            Scheme = "bearer", // must be lower case
+                            BearerFormat = "JWT",
+                            Reference = new OpenApiReference
+                            {
+                                Id = JwtBearerDefaults.AuthenticationScheme,
+                                Type = ReferenceType.SecurityScheme
+                            }
+                        };
+                        c.AddSecurityDefinition(securityScheme.Reference.Id, securityScheme);
+                        c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                        {
+                {securityScheme, new string[] { }}
+                        });
+
+            // add Basic Authentication
+            var basicSecurityScheme = new OpenApiSecurityScheme
+                {
+                    Type = SecuritySchemeType.Http,
+                    Scheme = "basic",
+                    Reference = new OpenApiReference { Id = "BasicAuth", Type = ReferenceType.SecurityScheme }
+                };
+                c.AddSecurityDefinition(basicSecurityScheme.Reference.Id, basicSecurityScheme);
+                c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {basicSecurityScheme, new string[] { }}
+                });
             });
         }
 
@@ -35,16 +71,16 @@ namespace Identity_JWT_API
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseMiddleware<ExceptionMiddleware>();
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Identity_JWT_API v1");
+                c.InjectStylesheet("/swagger/custom.css");
+                c.RoutePrefix = String.Empty;
+            });
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c =>
-                {
-                    //c.SwaggerEndpoint("/swagger/v1/swagger.json", "Identity_JWT_API v1");
-                    c.RoutePrefix = "";
-                });
             }
 
             app.UseHttpsRedirection();

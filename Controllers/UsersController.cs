@@ -42,14 +42,5 @@ namespace API.Controllers
         {
             return await _unitOfWork.UserRepository.GetMemberAsync(username);
         }
-
-        // [HttpGet("{username}", Name = "EditUser")]
-        // public async Task<ActionResult<MemberDto>> EditUser(string username)
-        // {
-        //     var user = await _userManager.FindByNameAsync(username);
-        //     if (user == null) return NotFound("Could not find user");
-
-        //     return await _unitOfWork.UserRepository.GetMemberAsync(username);
-        // }
     }
 }
