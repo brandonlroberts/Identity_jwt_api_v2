@@ -65,6 +65,7 @@ namespace API.Controllers
             return new UserDto
             {
                 Username = user.UserName,
+                Fullname = user.FullName,
                 Token = await _tokenService.CreateToken(user)
             };
         }

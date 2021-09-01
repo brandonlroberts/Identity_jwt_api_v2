@@ -27,11 +27,15 @@ namespace Identity_JWT_API.Data
                 .HasForeignKey(ur => ur.UserId)
                 .IsRequired();
 
+            builder.Entity<AppUser>()
+               .Property(u => u.FullName)
+               .HasComputedColumnSql("[FirstName] + ' ' + [LastName]");       
+
             builder.Entity<AppRole>()
                 .HasMany(ur => ur.UserRoles)
                 .WithOne(u => u.Role)
                 .HasForeignKey(ur => ur.RoleId)
-                .IsRequired();
+                .IsRequired(); 
 
             builder.ApplyUtcDateTimeConverter();
         }

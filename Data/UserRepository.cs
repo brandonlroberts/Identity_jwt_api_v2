@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using API.DTOs;
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
-using Identity_JWT_API.DTOs;
 using Identity_JWT_API.Extensions.Entities;
 using Identity_JWT_API.Helpers;
 using Identity_JWT_API.Interfaces;
@@ -22,15 +22,15 @@ namespace Identity_JWT_API.Data
             _context = context;
         }
 
-        public async Task<MemberDto> GetMemberAsync(string username)
+        public async Task<UserDto> GetUserAsync(string username)
         {
             return await _context.Users
                 .Where(x => x.UserName == username)
-                .ProjectTo<MemberDto>(_mapper.ConfigurationProvider)
+                .ProjectTo<UserDto>(_mapper.ConfigurationProvider)
                 .SingleOrDefaultAsync();
         }
 
-        public async Task<PagedList<MemberDto>> GetMembersAsync(UserParams userParams)
+        public async Task<PagedList<UserDto>> GetUsersAsync(UserParams userParams)
         {
             var query = _context.Users.AsQueryable();
 
@@ -47,7 +47,7 @@ namespace Identity_JWT_API.Data
                 _ => query.OrderByDescending(u => u.LastActive)
             };
 
-            return await PagedList<MemberDto>.CreateAsync(query.ProjectTo<MemberDto>(_mapper
+            return await PagedList<UserDto>.CreateAsync(query.ProjectTo<UserDto>(_mapper
                 .ConfigurationProvider).AsNoTracking(),
                     userParams.PageNumber, userParams.PageSize);
         }

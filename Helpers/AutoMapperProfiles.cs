@@ -1,3 +1,4 @@
+using API.DTOs;
 using AutoMapper;
 using Identity_JWT_API.DTOs;
 using Identity_JWT_API.Extensions.Entities;
@@ -8,7 +9,7 @@ namespace Identity_JWT_API.Helpers
     {
         public AutoMapperProfiles()
         {
-            CreateMap<AppUser, MemberDto>();
+            CreateMap<AppUser, UserDto>();
             CreateMap<RegisterDto, AppUser>();
         }
     }
